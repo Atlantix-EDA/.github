@@ -1,6 +1,5 @@
 <div align="center">
 
-# Atlantix-EDA
 ### Robust and Modular Software for Electronic Design Automation
 *Automating the future of electronics* · [Docs](https://docs.copperforge.dev) · atlantix-eda@proton.me
 
