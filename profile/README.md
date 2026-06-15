@@ -1,15 +1,10 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Atlantix-EDA/.github/main/profile/atlantix-logo.png" width="180" alt="Atlantix-EDA"/>
 
-  # Atlantix-EDA
-  ### Robust and Modular Software for Electronic Design Automation
+# Atlantix-EDA
+### Robust and Modular Software for Electronic Design Automation
+*Automating the future of electronics* · [Docs](https://docs.copperforge.dev) · atlantix-eda@proton.me
 
-  *Automating the future of electronics.*
-
-  [Docs](https://docs.copperforge.dev) · atlantix-eda@proton.me
 </div>
-
----
 
 We build modern, open-core tooling that makes hardware design faster and more
 reliable — from KiCad library generation through PCB release and manufacturing.
@@ -26,7 +21,5 @@ reliable — from KiCad library generation through PCB release and manufacturing
 ### ⚙️ Built with
 
 Rust · egui · KiCad · WASM
-
----
 
 > Open core. Privacy-first. Engineered for people who ship hardware.
