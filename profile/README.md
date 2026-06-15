@@ -6,7 +6,8 @@
 </div>
 
 We build modern, open-core tooling that makes hardware design faster and more
-reliable — from KiCad library generation through PCB release and manufacturing.
+reliable — from KiCad library generation through PCB release and manufacturing,
+along with FPGA design automation and tooling. 
 
 ### 🛠 Flagship Projects
 
