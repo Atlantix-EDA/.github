@@ -1,15 +1,29 @@
 <div align="center">
 
 ### Robust and Modular Software for Electronic Design Automation
-*Automating the future of electronics* · [Docs](https://docs.copperforge.dev) · atlantix-eda@proton.me
+*Automating the future of electronics*
 
 </div>
 
-We build modern, open-core tooling that makes hardware design faster and more
-reliable — from KiCad library generation through PCB release and manufacturing,
-along with FPGA design automation and tooling. 
+The focus of Atlantix-EDA is buildng applications that really
+facilitate electrical engineering design, ranging from PCB 
+design to FPGA tools and techniques. The combination of the Rust
+programming language along with the egui library and egui_mobius
+framework allow for constructing enterprise applications that
+run on the desktop and via the browser with wasm. 
 
-### 🛠 Flagship Projects
+Currently the key project is CopperForge, which is a backend tool that works
+with KiCad and prepares all the documentation required for fabrication
+and assembly. Another application in development is CopperMine,
+which is a next generation library management tool for KiCad. 
+
+Donations are definitely welcome particularly if there is a feature
+that you would like to see implemented sooner than later. 
+
+[Docs](https://docs.copperforge.dev) · atlantix-eda@proton.me
+
+
+### 🛠 Projects
 
 | Project | What it does |
 |---|---|
